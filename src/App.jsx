@@ -7,7 +7,6 @@ import { Controls } from './components/controls/Controls';
 // we're importing the Assistant class from the Google Gemini implementation (Gemini 1.5 model).
 // This class wraps the Google Generative AI SDK.
 import { Assistant } from './assistants/googleai';
-// import { Assistant } from './assistants/openai';
 import styles from './App.module.css'; 
 
 function App() {
