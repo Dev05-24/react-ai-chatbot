@@ -5,6 +5,7 @@
     height: 100%;
     padding: 8px;
     overflow-y: auto;
+    color : #0d0d0d;
 }
 
 .Message{
